@@ -1,7 +1,10 @@
 @charset "utf-8";
 .row-middle {
 	margin: 0 auto;
-	/* [disabled]display: table-cell; */
 	vertical-align: middle;
+	/* [disabled]height: 100px; */
+	/* [disabled]overflow: auto; */
+}
+.row-image {
 	height: 100px;
 }
